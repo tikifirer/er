@@ -3,6 +3,9 @@ name: Build APK
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - "insults/**"
+      - ".github/workflows/build-insults.yml"
   workflow_dispatch:
 
 permissions:
