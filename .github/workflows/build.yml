@@ -5,7 +5,9 @@ on:
     branches: [main]
     paths-ignore:
       - "insults/**"
+      - "compliments/**"
       - ".github/workflows/build-insults.yml"
+      - ".github/workflows/build-compliments.yml"
   workflow_dispatch:
 
 permissions:
