@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom Hub</string>
+    <string name="widget_clock">Hub clock</string>
+    <string name="widget_actions">Hub quick actions</string>
+    <string name="accessibility_description">Lets Custom Hub run your edge gestures and quick actions: lock the screen, take a screenshot, open notifications and similar. It does not read what is on your screen.</string>
+</resources>

@@ -8,6 +8,8 @@ on:
       - "compliments/**"
       - ".github/workflows/build-insults.yml"
       - ".github/workflows/build-compliments.yml"
+      - "hub/**"
+      - ".github/workflows/build-hub.yml"
   workflow_dispatch:
 
 permissions:
